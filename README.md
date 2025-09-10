@@ -9,8 +9,8 @@
           
 <br>
 
-📌 Jeg er en dataingeniør-student på fjerde semester!
+📌 Jeg er en dataingeniør-student på femte semester!
 
 📌 Opplært i spesielt Java SE + Spring, PostgreSQL og kommandolinje-språk (Bash).
 
-📌 Fokuserer for tiden på å lære mer om sikkerhet og game design.
+📌 Fokuserer for tiden på å lære mer om HTML, CSS, JS og 3D grafikk.
