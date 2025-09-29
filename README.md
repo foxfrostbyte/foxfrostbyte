@@ -1,10 +1,10 @@
 # Om meg:
 
 <div>
-      <img align = "left" alt = "Java" width = "100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-      <img align = "left" alt = "Spring" width = "100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-      <img  align = "left" alt = "JavaScript" width = "100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      <img align = "center" alt = "PostgreSQL" width = "100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+      <img alt="Java" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;
+      <img alt="Spring" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img alt="JavaScript" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img alt="PostgreSQL" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
           
 <br>
