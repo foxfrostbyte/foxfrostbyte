@@ -12,6 +12,4 @@
 
 📌 Jeg er en dataingeniør-bachelorstudent på siste året ved HVL.
 
-📌 Jobber nå deltid som fullstack webutvikler innen en bedrift som driver med EU-compliance.
-
 📌 Jeg er opplært innen webutvikling, databaser, algoritmer og datastrukturer, nettverksteknologi, datamaskiner og operativsystemer, ingeniørfaglig matematikk/fysikk/kjemi, samt mye annet.
