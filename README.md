@@ -1,15 +1,7 @@
-# Om meg:
-
-<div>
-      <img alt="Java" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;
-      <img alt="Spring" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img alt="TypeScript" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img alt="React" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img alt="PostgreSQL" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-</div>
+# About me:
           
 <br>
 
-📌 Jeg er en dataingeniør-bachelorstudent på siste året ved HVL.
+📌 Hi! I have a bachelors's degree in computer engineering from Western Norway University of Applied Sciences (finished 2026). This was with a specialization in web- and mobile development. I plan on taking certificates in CompTIA Security+, DevSecOps, and CCNA.
 
-📌 Jeg er opplært innen webutvikling, databaser, algoritmer og datastrukturer, nettverksteknologi, datamaskiner og operativsystemer, ingeniørfaglig matematikk/fysikk/kjemi, samt mye annet.
+📌 I've previously worked part-time as a fullstack developer for a company selling B2B compliance-related products. I got experience with TypeScript, React, Node.js, Azure, function calling (YAML), and security testing.
